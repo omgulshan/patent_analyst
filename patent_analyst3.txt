@@ -1,0 +1,24 @@
+Short Title, Extent, and Commencement:
+
+The preliminary section typically begins by stating the short title of the Act, which is "The Patents Act, 1970."
+It indicates the geographical extent of the Act's applicability, which is the entire territory of India.
+The section also specifies the commencement date of the Act, which is the date on which the Act officially came into effect.
+Definitions:
+
+This part of the section contains definitions of various terms used throughout the Act. These definitions ensure a common understanding of the terminology within the context of patent law.
+Definitions of Key Terms:
+Some of the key terms that are commonly defined in the preliminary section of the Indian Patents Act include:
+
+Appellate Board: The authority responsible for hearing appeals from decisions of the Controller of Patents.
+Applicant: The person applying for a patent.
+Controller: The officer responsible for the administration of the Act, including granting patents and related matters.
+Invention: Any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof.
+Patentee: The person to whom a patent is granted.
+Priority Date: The date on which a patent application is filed, used to determine the order of rights in case of conflicting applications.
+Specification: The document that describes the invention and the manner in which it is to be performed.
+References to Other Acts:
+
+The preliminary section may also contain references to other acts or laws that are relevant to the interpretation and implementation of the Patents Act.
+Interpretation:
+
+The preliminary section might include clauses that provide guidance on how certain terms should be interpreted in the context of the Act. This helps avoid ambiguity and ensures consistent application of the law.
